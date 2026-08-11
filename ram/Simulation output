@@ -1,0 +1,6 @@
+| Operation | Address | Data |
+| --------- | ------: | ---: |
+| Write     |       3 | `A5` |
+| Write     |       7 | `5A` |
+| Read      |       3 | `A5` |
+| Read      |       7 | `5A` |
